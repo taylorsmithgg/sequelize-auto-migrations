@@ -9,6 +9,7 @@
   "bin": {
     "sequelize-magic": "bin/sequelize-magic"
   },
+  "main": "index",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/flexxnn/sequelize-auto-migrations.git"
